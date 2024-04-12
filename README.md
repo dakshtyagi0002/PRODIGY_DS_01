@@ -6,5 +6,4 @@ Data Set Used:  population.csv
                 https://data.worldbank.org/indicator/SP.POP.TOTL
 
 Variables used for Histogram: 
-    1. Selected Countries (Continuous or Categorical Variable) 
-    2. Population in 2022.
+    Selected Countries (Continuous or Categorical Variable) & Population in 2022.
