@@ -5,5 +5,5 @@ Create a bar chart or histogram to visualize the distribution of a categorial or
 Data Set Used:  population.csv
                 https://data.worldbank.org/indicator/SP.POP.TOTL
 
-Variables used for Histogram: 
+Variables used for histogram: 
     Selected Countries (Continuous or Categorical Variable) & Population in 2022.
