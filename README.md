@@ -4,11 +4,11 @@ Welcome to the Prodigy InfoTech Internship repository! This repository documents
 
 ## Task Overview
 
-Create a bar chart or histogram to visualize the distribution of a categorial or continuous variable, such as the distribution of ages or genders in a population.
+Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identiy patters and trends in the data.
 
 ## Knowledge Gained
 
-Task 1 provided invaluable experience in data preprocessing and exploratory analysis, enhancing skills in data cleaning, exploratory data analysis (EDA), and deriving actionable insights.
+Task 2 enriched my expertise in data preprocessing and exploratory analysis, refining competencies in data cleaning, EDA, and extracting actionable insights.
 
 ## Connect with Me
 
