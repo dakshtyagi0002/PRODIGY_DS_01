@@ -14,19 +14,6 @@ Task 2 enriched my expertise in data preprocessing and exploratory analysis, ref
 
 Feel free to explore the repository, provide feedback, or connect with me for further discussions on data science, internship experiences, or any related topics. Let's learn and grow together!
 
-## Keywords
-
-- Data Science
-- Internship
-- Prodigy InfoTech
-- Data Cleaning
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-
-## Stay Updated
-
-Don't forget to star ⭐ this repository to stay updated with the latest developments and insights!
-
 ## Contact Information
 
 For any inquiries or collaborations, feel free to reach out:
