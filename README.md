@@ -8,7 +8,7 @@ Perform data cleaning and exploratory data analysis (EDA) on a dataset of your c
 
 ## Knowledge Gained
 
-Task 2 enriched my expertise in data preprocessing and exploratory analysis, refining competencies in data cleaning, EDA, and extracting actionable insights.
+Task 1 enriched my expertise in data preprocessing and exploratory analysis, refining competencies in data cleaning, EDA, and extracting actionable insights.
 
 ## Connect with Me
 
